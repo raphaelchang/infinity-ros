@@ -1,1 +1,0 @@
-# resc-ros
