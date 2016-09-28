@@ -1,1 +1,1 @@
-# resc-ros
+# ROS Package for Infinity ESCs
