@@ -6,7 +6,7 @@ import serial
 import string
 import time
 
-class resc_driver(object):
+class infinity_driver(object):
     def __init__(self):
         self.initialized = False
         self.rpm_sub = rospy.Subscriber("~rpm", Float64, self.rpm_cb)
@@ -38,8 +38,8 @@ class resc_driver(object):
             self.s.write(self.output.encode())
 
 if __name__ == '__main__':
-    rospy.init_node("resc_driver")
-    node = resc_driver()
+    rospy.init_node("infinity_driver")
+    node = infinity_driver()
     try:
         rospy.spin()
     except rospy.ROSInterruptException:
