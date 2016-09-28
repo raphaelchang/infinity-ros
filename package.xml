@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
-  <name>resc-ros</name>
-  <version>0.0.0</version>
-  <description>The resc-ros package</description>
+  <name>infinity-ros</name>
+  <version>1.0.0</version>
+  <description>The infinity-ros package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
   <!-- <maintainer email="jane.doe@example.com">Jane Doe</maintainer> -->
-  <maintainer email="anuragmakineni@todo.todo">anuragmakineni</maintainer>
+  <maintainer email="raphaelchang1227@gmail.com">Raphael Chang</maintainer>
 
 
   <!-- One license tag required, multiple allowed, one license per tag -->
   <!-- Commonly used license strings: -->
   <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
-  <license>TODO</license>
+  <license>MIT</license>
 
 
   <!-- Url tags are optional, but mutiple are allowed, one per tag -->
